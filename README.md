@@ -12,6 +12,8 @@ Read "![CREDITS.txt](CREDITS.txt)" for information on third-party assets.
 ![Screenshot of test combat mission](misc/Tactics_Gameplay_Shot.png)
 
 # DESCRIPTION
+__NOTE:__ This project is being refactored from the ground up, so this repository is not being updated anymore and exists just as a reference.
+
 A turn-based tactics combat Godot game with some light RPG elements.
 
 Command four characters as they explore the strange government projects in underground military facilities.
